@@ -3896,6 +3896,7 @@
 ||ipv6.fuuuuuck.com^
 ||oh.fuuuuuck.com^
 ||git.fuwafuwa.moe^
+||git.ir
 ||fux0r.fyi^
 ||fux0r.xyz^
 ||fxp-terminal.info^
